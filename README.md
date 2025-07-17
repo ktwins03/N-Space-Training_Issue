@@ -1,6 +1,6 @@
 # N-Space-Training_Issue
 
-1. Google earth engine : Landsat 인공위성영상 Timelaps로 내가 태어난 고향의 변화 관찰해보자.
+1. Google earth engine : Landsat 인공위성영상 Timelaps로 내가 태어난 고향의 발전상을 관찰해보자.
 
 2. NASA World view : 정지궤도위성영상 체험하기(Himawari, GOES-W, GOES-E)
 
